@@ -1,0 +1,7 @@
+---
+hostname: 127.0.0.1
+port: '2200'
+username: vagrant
+ssh_key: "/Users/tech-a04/eng12hw/week10/projectBuilds/sparta_global_nginx_recipe/.kitchen/kitchen-vagrant/default-ubuntu-1604/.vagrant/machines/default/virtualbox/private_key"
+last_action: verify
+last_error: 

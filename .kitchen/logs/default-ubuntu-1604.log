@@ -1,0 +1,3 @@
+I, [2018-07-31T00:51:18.317773 #69194]  INFO -- default-ubuntu-1604: -----> Verifying <default-ubuntu-1604>...
+I, [2018-07-31T00:51:18.554431 #69194]  INFO -- default-ubuntu-1604: Loaded tests from {:path=>".Users.tech-a04.eng12hw.week10.projectBuilds.sparta_global_nginx_recipe.test.integration.default"} 
+I, [2018-07-31T00:51:18.861948 #69194]  INFO -- default-ubuntu-1604: Finished verifying <default-ubuntu-1604> (0m0.54s).
