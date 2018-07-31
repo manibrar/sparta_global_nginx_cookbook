@@ -4,4 +4,4 @@ DEPENDENCIES
     metadata: true
 
 GRAPH
-  nginx (0.1.0)
+  nginx (0.1.1)
