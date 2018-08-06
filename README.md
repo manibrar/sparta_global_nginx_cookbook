@@ -10,7 +10,7 @@ This cookbook has been compiled to use with chef
 2) In the Vagrant box config add the line:  
 development.vm.provision "chef_solo" do |chef|
   chef.add_recipe "nginx::default"
-end
+end.
 3a) If you would like to pull your cookbooks from a github repository, in the Berksfile add the line:
 cookbook 'nginx', git: 'INSERT YOUR CLONED REPOSITORY SSH LINK HERE'
 3b)  If you would like to pull your cookbooks from a repository stored within the project type the command 'berks vendor cookbooks'
